@@ -1,7 +1,9 @@
 body {
-    background-color: rgb(2, 2, 2);
-    color: #f6f6f6;
+    background-color: rgb(255, 255, 255);
+    color: #060505;
+    font-family: Helvetica, ;
 }
 strong {
-    color: #f6aa87;
+    color: red;
 }
+ 
