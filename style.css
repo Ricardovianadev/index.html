@@ -1,0 +1,11 @@
+body {
+    background-color: silver;
+    font-family: helvetica;
+    font-style: norma;
+    font-weight: bold;
+    font-size: larger;
+}
+strong {
+    color: rgb(197, 130, 7);
+}
+
