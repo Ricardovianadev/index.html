@@ -1,0 +1,2 @@
+alert ('ola');
+prompt ('hello');

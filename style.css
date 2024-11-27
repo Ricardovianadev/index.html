@@ -1,11 +1,25 @@
 body {
-    background-color: silver;
-    font-family: helvetica;
-    font-style: norma;
-    font-weight: bold;
-    font-size: larger;
+    background-color: blueviolet;
+    
+}
+
+h1,h2 {
+   height: 20px;
+  text-align: left;
+  top: 50%;
+  transform: translatex(-50%);
+  transform: translateY(-50%);
+  justify-content: center;
+ font-family: Arial, Helvetica, sans-serif
+}
+img {
+display: inline-block;
+margin: auto;
 }
 strong {
-    color: rgb(197, 130, 7);
+    color: rgb(254, 254, 255);
 }
+
+
+
 
